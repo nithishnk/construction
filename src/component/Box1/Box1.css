@@ -1,0 +1,52 @@
+.style-content {
+   padding-top: 36%;
+   padding-bottom: 41%;
+    }
+
+
+.fontstyle
+{
+    font-weight: bold;
+    color: #fff;
+}
+
+
+.form-control1
+{
+    font-size: 14px;
+   
+}
+.form-control:focus {
+  
+    border-color: none;
+
+    box-shadow: none;
+}
+
+   .btngroup
+   {
+ 
+   }
+   .content
+   {
+
+   }
+   .carousel-control-prev-icon {
+    background-image:none;
+}
+.carousel-control-next-icon {
+    background-image: none;
+}
+.carousel-indicators li {
+ width: 16px;
+}
+.arow-style
+{
+    font-size: 19px;
+    color: #fff;
+    position: absolute;
+    background-color: #817bfc;
+    padding: 10px;
+    top: -1px;
+    right: -24px;
+}

@@ -1,0 +1,23 @@
+.btn-click
+{
+color: black;
+background-color: white;
+border-color: #007bff;
+}
+
+.btn-click:focus {
+    /* outline: 0; */
+  box-shadow:none;
+}
+.btn-click:hover{
+    background-color:white; 
+    color: black;
+}
+.video-style
+{
+    background-color:black; 
+}
+.w-100
+{
+    
+}
