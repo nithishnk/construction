@@ -1,0 +1,18 @@
+.section-color{
+  background-color: #f2f2f0;
+}
+.icon-responsive
+{
+  padding: 1rem;
+  width: 5rem;
+}
+.img-responsive
+{
+  max-width: 100%;
+  height: auto;
+  
+}
+.text-color
+{
+  color: var(--main-txt-color);
+}

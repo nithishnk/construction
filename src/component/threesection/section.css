@@ -1,0 +1,23 @@
+.restoration
+{
+  background-color: #a09cfc;
+}
+.residential{
+  background-color:#fab9b6;
+}
+.commercial{
+  background-color:#b5c2c5;
+}
+.sectionTwoimage
+{
+  padding: 1rem;
+  width: 8rem;
+}
+.title
+{
+  font-size: 1.5rem;
+}
+.content
+{
+  font-size: .9rem;
+}
