@@ -1,17 +1,18 @@
 import React, { Component } from 'react';
 import './navbar.css';
-import Logo from '../../images/paint.svg';
+import Logo from './paint.svg';
 import {Nav,Navbar} from 'react-bootstrap'
 
 export default class TopNavbar extends Component {
     state = {
         navbar : [
-        {id:'1',navname:'Home',link:'/home'},
-        {id:'2',navname:'Residential',link:'/residential'},
-        {id:'3',navname:'Commercial',link:'/commercial'},
-        {id:'4',navname:'Portfolio',link:'/portfolio'},
-        {id:'5',navname:'About Us',link:'/about_us'},
-        {id:'6',navname:'Contacts',link:'/contacts'}
+        {id:'1'},
+        {id:'2',navname:'Home',link:'/home'},
+        {id:'3',navname:'Residential',link:'/residential'},
+        {id:'4',navname:'Commercial',link:'/commercial'},
+        {id:'5',navname:'Portfolio',link:'/portfolio'},
+        {id:'6',navname:'About Us',link:'/about_us'},
+        {id:'7',navname:'Contacts',link:'/contacts'}
       ]
     }
   render() {

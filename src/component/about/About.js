@@ -17,12 +17,7 @@ state={
     {
       image:add,title:"Lorem Ipsum is simply dummy text.",paragraph:"Warren carson 09-05-2019",span:"Lorem Ipsum is simply dummy Ipsum is simply dummy Ipsum is simply dummy "
     },
-    {
-      image:add,title:"Lorem Ipsum is simply dummy text.",paragraph:"Warren carson 09-05-2019",span:"Lorem Ipsum is simply dummy Ipsum is simply dummy Ipsum is simply dummy"
-    },
-    {
-      image:add,title:"Lorem Ipsum is simply dummy text.",paragraph:"Warren carson 09-05-2019",span:"Lorem Ipsum is simply dummy Ipsum is simply dummy Ipsum is simply dummy "
-    }
+    
   ]
 }
   render() {

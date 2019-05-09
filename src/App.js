@@ -12,6 +12,8 @@ export default class App extends Component {
     return (
       <div>
       <Navbar/>
+      <div>
+      </div>
       <SectionTwo/>
       <Section/>
       <Features/>

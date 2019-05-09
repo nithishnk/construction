@@ -4,6 +4,10 @@ a {
 .navb-li:hover{
     background-color: #ffffff
 }
+.navb-li:first-child:hover{
+    background-color: unset;
+    cursor: unset;
+}
 .call{
     background-color: #817BFC;
 }
@@ -39,3 +43,4 @@ a {
     width: 100%;
 	z-index:9999;
 }
+
