@@ -18,7 +18,7 @@ export default class TopNavbar extends Component {
     return (
       <div>
          
-         <Navbar className="p-0 sticky-top fixed-top" collapseOnSelect expand="lg" bg="light" variant="light">
+         <Navbar className="p-0 stk" collapseOnSelect expand="lg" bg="light" variant="light">
          <div><Navbar.Brand className="renv-logo"><img src={Logo}/></Navbar.Brand></div>
           
           <Navbar.Toggle aria-controls="responsive-navbar-nav" />
