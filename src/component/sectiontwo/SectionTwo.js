@@ -6,7 +6,7 @@ import './sectionTwo.css';
 export default class SectionTwo extends Component {
   render() {
     return (
-      <div className="row mx-0 bg-color row-align">
+      <div className="row mx-0 bg-color row-align " style={{marginTop:"72px"}}>
              <div className="col-lg-3 col-md-12 col-xl-4 p-0 bg-color row-align-midddel">
              <Box1 />
              </div>
