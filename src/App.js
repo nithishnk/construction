@@ -3,7 +3,7 @@ import Section from './component/threesection/Section'
 import Features from './component/features/Features';
 import About from './component/about/About';
 import SectionTwo from './component/sectiontwo/SectionTwo'
-
+import SectionFive from './component/SectionFive/SectionFive'
 
 export default class App extends Component {
   render() {
@@ -12,6 +12,7 @@ export default class App extends Component {
       <SectionTwo/>
       <Section/>
       <Features/>
+      <SectionFive/>
       </div>
     )
   }
