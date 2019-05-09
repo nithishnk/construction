@@ -4,7 +4,7 @@ import Boxmodel from '../Boxmodel/Boxmodel';
 export default class Box1 extends Component {
   render() {
     return (
-        <div className="content style-content pl-4 ">
+        <div className="bg-color content style-content pl-4 ">
       <div className="section">
         <h1 className="fontstyle">All the best painting tools you need</h1>
       </div>
