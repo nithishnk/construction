@@ -1,23 +1,25 @@
 import React, { Component } from 'react'
 import { Carousel } from 'react-bootstrap';
-import a from '../../images/1.jpg';
-import b from '../../images/2.jpg';
-import c from '../../images/2.jpg';
+import paint  from '../../images/1.jpg';
+import wallpaint from '../../images/2.jpg';
+import wallpaper from '../../images/2.jpg';
+import './Box2.css';
 export default class Box1 extends Component {
   render() {
     return (
+      <div className="renovationCarousel">
         <Carousel>
         <Carousel.Item>
           <img
             className="d-block w-100"
-            src={c}
+            src={paint}
             alt="First slide"
           />
         </Carousel.Item>
         <Carousel.Item>
           <img
             className="d-block w-100"
-            src={a}
+            src={wallpaint}
             alt="Third slide"
           />
       
@@ -26,11 +28,12 @@ export default class Box1 extends Component {
         <Carousel.Item>
           <img
             className="d-block w-100"
-            src={b}
+            src={wallpaper}
             alt="Third slide"
           />
         </Carousel.Item>
       </Carousel>
+      </div>
     );
   }
 }

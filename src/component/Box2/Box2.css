@@ -1,0 +1,9 @@
+.renovationCarousel .carousel-control-prev-icon {
+    background-image:none;
+}
+.renovationCarousel .carousel-control-next-icon {
+    background-image: none;
+}
+.renovationCarousel .carousel-indicators li {
+ width: 16px;
+}

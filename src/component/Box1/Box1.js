@@ -4,22 +4,23 @@ import Boxmodel from '../Boxmodel/Boxmodel';
 export default class Box1 extends Component {
   render() {
     return (
-        <div className="bg-color content style-content pl-4 ">
+      
+        <div className="bg-color content style-content p-5 ">
       <div className="section">
-        <h1 className="fontstyle">All the best painting tools you need</h1>
+        <h2 className="fontstyle">All the best painting tools you need</h2>
       </div>
 
-      <div className="btngroup">
-      <div class="input-group pt-5 pt-2 mb-3">
+      <div className=" pt-3 ">
+      <div class="input-group  ">
   
   <div class="input-group-append">
   <Boxmodel/>
     
   </div>
       </div>
-
+</div>
       </div>
-      </div>
+     
     )
   }
 }
