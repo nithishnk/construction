@@ -1,0 +1,21 @@
+a {
+    text-decoration: none !important;
+}
+.navb-li:hover{
+    background-color: #ffffff
+}
+.call{
+    background-color: #817BFC;
+}
+.renv-logo{
+    background-color: #817BFC;
+    position: absolute;
+    top: 0;
+    left:0;
+    height: 100px;
+    width: 100px;
+    padding: 15px;
+}
+.renv-logo>img{
+    width: 70px;
+}
