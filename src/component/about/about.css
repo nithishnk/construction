@@ -3,3 +3,19 @@
   padding: 1rem;
   width: 5rem;
 }
+.text-size
+{
+  font-size: 14px;
+}
+.text-clr
+{
+  color: #807afc;
+}
+.txt-algn
+{
+  text-align: center;
+}
+.txt-clr-gray
+{
+  color:gray;
+}

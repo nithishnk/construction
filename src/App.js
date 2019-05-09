@@ -15,7 +15,7 @@ export default class App extends Component {
       <SectionTwo/>
       <Section/>
       <Features/>
-      
+      <About/>
       </div>
     )
   }
