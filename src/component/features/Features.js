@@ -30,6 +30,7 @@ state={
         <img className="img-fluid" src={banner}></img>
         </div>
         <div className="col-md-6">
+        <div>
         <h1 className="text-color">Welcome to</h1>
         <h1 className="text-color">Painter</h1>
         <p className="text-color">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s</p>
@@ -47,6 +48,7 @@ state={
       }
         )}
       
+        </div>
         </div>
       </div>
       </div>
