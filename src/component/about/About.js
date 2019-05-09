@@ -21,6 +21,7 @@ state={
 }
   render() {
     return (
+      <div>
       <div className="container">
       <div className="row mx-0">
       <div className=" ">
@@ -45,6 +46,7 @@ state={
         )}
         
       )}
+      </div>
       </div>
       </div>
       </div>

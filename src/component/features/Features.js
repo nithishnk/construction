@@ -29,7 +29,7 @@ state={
         <div className="col-md-5">
         <img className="img-fluid" src={banner}></img>
         </div>
-        <div className="col-md-6">
+        <div className="col-md-6 d-flex align-items-center">
         <div>
         <h1 className="text-color">Welcome to</h1>
         <h1 className="text-color">Painter</h1>
