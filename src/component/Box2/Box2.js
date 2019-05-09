@@ -22,6 +22,7 @@ export default class Box1 extends Component {
             src={wallpaint}
             alt="Third slide"
           />
+          
       
          
         </Carousel.Item>
