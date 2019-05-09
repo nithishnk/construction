@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import add from '../../images/add.svg'
-import '../about/about.css'
+import '../Section-Six/sectionsix.css'
 
 export default class About extends Component {
 state={

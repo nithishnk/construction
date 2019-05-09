@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import '../../index.css'
-import '../../component/features/features.css'
+import '../Section-Four/sectionfour.css'
 import banner from '../../images/banner.png'
 import schedule from '../../images/schedule.svg'
 import clean from '../../images/clean.svg'
