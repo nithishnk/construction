@@ -1,5 +1,5 @@
 import React, { Component } from 'react'
-import './section.css'
+import '../Section-Three/sectionthree.css'
 import restoration from '../../images/restoration.svg'
 import residential from '../../images/residential.svg'
 import commercial from '../../images/commercial.svg'

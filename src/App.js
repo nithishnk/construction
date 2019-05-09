@@ -1,19 +1,20 @@
 import React, { Component } from 'react'
-import Section from './component/threesection/Section'
+import SectionOne from '../src/component/Section-one/SectionOne'
+import SectionTwo from './component/Section-Two/SectionTwo'
+import SectionThree from './component/Section-Three/SectionThree'
 import Features from './component/features/Features';
 import About from './component/about/About';
-import SectionTwo from './component/sectiontwo/SectionTwo'
+
 import SectionFive from './component/SectionFive/SectionFive'
-import Navbar from '../src/component/Navbar/Navbar'
+
 
 export default class App extends Component {
   render() {
     return (
       <div>
-      <Navbar/>
-      
+      <SectionOne/>
       <SectionTwo/>
-      <Section/>
+      <SectionThree/>
       <Features/>
       <SectionFive/>
       <About/>
